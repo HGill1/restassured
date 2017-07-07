@@ -1,0 +1,17 @@
+{
+  "urn": "11PP0000010",
+  "caseId": "1234444",
+  "authorisedCharges": [
+    {
+      "suspect": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "London",
+        "proposedCharges": [],
+        "putCharges": []
+      }
+    }
+  ],
+  "id": "2",
+  "version": 1
+}

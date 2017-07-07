@@ -1,0 +1,15 @@
+{
+  "urn": "11PP0000010",
+  "caseId": "1234444",
+  "id": "2",
+  "version": 1,
+  "caseReview": {
+    "authorisedCharges": [
+      ""
+    ],
+    "start": "2015-09-10",
+    "reviewer": "Some nice name",
+    "completed": "2015-09-20",
+    "reviewId": "REV123"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "caseId": "1234444",
+  "urn": "11PP0000010",
+  "suspects": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1979-01-01",
+      "address": "London",
+      "proposedCharges": [],
+      "putCharges": [
+        {
+          "code": {
+            "chargeCodeStr": "DDCode"
+          },
+          "chargeDescripion": {
+            "description": "Common assault on"
+          }
+        }
+      ]
+    }
+  ],
+  "id": "PutCharges#1",
+  "version": 39393939
+}

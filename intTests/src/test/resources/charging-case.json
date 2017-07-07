@@ -1,0 +1,34 @@
+{
+  "urn": "11PP0000010",
+  "caseId": "1234444",
+  "exhibits": [
+    {
+      "exhibitRef": 121212,
+      "used": true,
+      "exhibitId": 11112
+    }
+  ],
+  "id": "Refactored WithoutJSON",
+  "suspects": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "9 Privet Drive",
+      "proposedCharges": [
+        {
+          "code": {
+            "chargeCodeStr": "CHARGE1"
+          },
+          "chargeDescription": {
+            "description": "Mock charge"
+          }
+        }
+      ],
+      "putCharges": [
+        ""
+      ],
+      "dateOfBirth": "1979-01-01"
+    }
+  ],
+  "version": 1
+}
